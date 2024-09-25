@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/trending_btn"
+        android:title="opt1"
+        android:icon="@drawable/trending_up_24"
+        android:enabled="true">
+    </item>
+    <item
+        android:id="@+id/category_btn"
+        android:title="opt2"
+        android:icon="@drawable/library_books_24"
+        android:enabled="true">
+    </item>
+    <item
+        android:id="@+id/search_btn"
+        android:title="opt3"
+        android:icon="@drawable/search_24"
+        android:enabled="true">
+    </item>
+</menu>
